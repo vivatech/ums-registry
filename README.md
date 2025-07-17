@@ -4,10 +4,12 @@
  - IP - 139.84.167.86
  - Port - 8761
 
-
+# Architecture
  - Java version - 1.8
  - Maven version - apache-maven-3.8.2
- - Jar file location - ums-registry/target/Registry.jar
+
+# Jar file location 
+- ums-registry/target/Registry.jar
 
 # Log file path
  - /home/core/registry/nohup.out

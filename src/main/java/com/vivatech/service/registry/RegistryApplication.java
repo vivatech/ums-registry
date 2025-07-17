@@ -7,8 +7,8 @@ import org.springframework.context.annotation.PropertySource;
 
 @SpringBootApplication
 @EnableEurekaServer
-@PropertySource("classpath:application.properties")
-//@PropertySource("file:////home/core/ums/registry/application.properties")
+//@PropertySource("classpath:application.properties")
+@PropertySource("file:////home/core/ums/registry/application.properties")
 public class RegistryApplication {
 
 	public static void main(String[] args) {
