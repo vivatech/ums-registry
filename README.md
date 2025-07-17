@@ -9,7 +9,7 @@
  - Jar file location - ums-registry/target/Registry.jar
 
 # Log file path
- - /home/core/gateway/Gateway.log
+ - /home/core/registry/nohup.out
 
 # Properties file path
  - /home/core/ums/registry/application.properties
