@@ -2,6 +2,7 @@
 
 # Deployment Server
  - IP - 139.84.167.86
+ - Port - 8761
 
 
  - Java version - 1.8
@@ -29,3 +30,5 @@ The start.sh runs the registry and gateway
 The stop.sh stops the registry and gateway 
 
 The status.sh checks the status of the registry and gateway application
+
+Please execute this once for both the applications (registry & gateway) to run.
